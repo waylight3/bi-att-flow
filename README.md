@@ -11,7 +11,7 @@
 - unzip, wget (for running `download.sh` only)
 
 #### Python Packages
-- tensorflow (deep learning library, only works on r0.11)
+- tensorflow (deep learning library, can works on tensorflow 1.1.0)
 - nltk (NLP tools, verified on 3.2.1)
 - tqdm (progress bar, verified on 4.7.4)
 - jinja2 (for visaulization; if you only train and test, not needed)
